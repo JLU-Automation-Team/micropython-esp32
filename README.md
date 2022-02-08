@@ -12,6 +12,7 @@ micropython是基于c编译的更集成化的开发方式，目前已编译的�
 ## 烧录工具
 * 烧录程序 flash_download_tool (烧录地址选择见mpy固件官网)
 * 官方固件+01studio固件(lcd/lvgl两种)
+* <b>固件新增esp32-cam固件</b>
 ## 开发环境
 * uPyCraft
 * Thonny(推荐)
